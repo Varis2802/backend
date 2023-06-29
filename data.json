@@ -1,0 +1,1893 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "Q1",
+        "label": "How old is the patient?",
+        "collapsed": false,
+        "_children": [
+          "Q2",
+          "Q3",
+          "Q4"
+        ]
+      },
+      "position": {
+        "x": 63,
+        "y": 1079
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q2",
+        "label": "Does the headache occur after physical activity or crying?",
+        "collapsed": false,
+        "_children": [
+          "Q5",
+          "Q6"
+        ]
+      },
+      "position": {
+        "x": 433.5,
+        "y": 343
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q3",
+        "label": "Is the headache chronic (15 or more days per month for 3 months or longer)?",
+        "collapsed": false,
+        "_children": [
+          "Q7",
+          "Q8"
+        ]
+      },
+      "position": {
+        "x": 433.5,
+        "y": 1079
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q4",
+        "label": "Has there been any recent head trauma?",
+        "collapsed": false,
+        "_children": [
+          "Q9",
+          "Q10"
+        ]
+      },
+      "position": {
+        "x": 433.5,
+        "y": 1815
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q5",
+        "label": "Is the headache accompanied by vomiting or double vision?",
+        "collapsed": false,
+        "_children": [
+          "Q11",
+          "Q12"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 159
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q6",
+        "label": "Is the headache occurring in one particular area?",
+        "collapsed": false,
+        "_children": [
+          "Q13",
+          "Q14"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 527
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q7",
+        "label": "Is the headache usually accompanied by other symptoms like nausea or light sensitivity?",
+        "collapsed": false,
+        "_children": [
+          "Q15",
+          "Q16"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 895
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q8",
+        "label": "Hio",
+        "collapsed": true,
+        "_children": [
+          "Q17",
+          "Q18"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 1263
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": true,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q9",
+        "label": "Is there a change in behavior or cognitive functions?",
+        "collapsed": false,
+        "_children": [
+          "Q19",
+          "Q20"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 1631
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q10",
+        "label": "Has there been a sudden change in the pattern of headaches?",
+        "collapsed": false,
+        "_children": [
+          "Q21",
+          "Q22"
+        ]
+      },
+      "position": {
+        "x": 980,
+        "y": 1999
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q11",
+        "label": "Is there an observed change in the child's physical capabilities (balance, coordination)?",
+        "collapsed": false,
+        "_children": [
+          "Q23",
+          "Q24"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 67
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q12",
+        "label": "Is the headache accompanied by fever?",
+        "collapsed": false,
+        "_children": [
+          "Q25",
+          "Q26"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 251
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q13",
+        "label": "Does the headache occur in the forehead, temple, or cheek?",
+        "collapsed": false,
+        "_children": [
+          "Q27",
+          "Q28"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 435
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q14",
+        "label": "Is the headache followed by fatigue or mood changes?",
+        "collapsed": false,
+        "_children": [
+          "Q29",
+          "Q30"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 619
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q15",
+        "label": "Does the patient have a family history of migraines?",
+        "collapsed": false,
+        "_children": [
+          "Q31",
+          "Q32"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 803
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q16",
+        "label": "Is the headache worse in the morning?",
+        "collapsed": false,
+        "_children": [
+          "Q33",
+          "Q34"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 987
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q17",
+        "label": "Is the headache accompanied by a rash?",
+        "collapsed": false,
+        "_children": [
+          "Q35",
+          "Q36"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 1171
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q18",
+        "label": "Is the headache severe and did it start suddenly?",
+        "collapsed": false,
+        "_children": [
+          "Q37",
+          "Q38"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 1355
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q19",
+        "label": "Is there an unexplained loss of consciousness?",
+        "collapsed": false,
+        "_children": [
+          "Q39",
+          "Q40"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 1539
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q20",
+        "label": "Is the headache accompanied by visual disturbances?",
+        "collapsed": false,
+        "_children": [
+          "Q41",
+          "Q42"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 1723
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q21",
+        "label": "Are the headaches accompanied by nausea or vomiting?",
+        "collapsed": false,
+        "_children": [
+          "Q43",
+          "Q44"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 1907
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q22",
+        "label": "Is there any history of cancer?",
+        "collapsed": false,
+        "_children": [
+          "Q45",
+          "Q46"
+        ]
+      },
+      "position": {
+        "x": 1553.5,
+        "y": 2091
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q23",
+        "label": "Have there been any seizures?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 21
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q24",
+        "label": "Does the child often complain of headaches in the morning?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 113
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q25",
+        "label": "Is there a presence of a stiff neck?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 205
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q26",
+        "label": "Are there any other symptoms like weight loss, vision changes?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 297
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q27",
+        "label": "Does the child have a runny or stuffy nose?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 389
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q28",
+        "label": "Is the headache in the back of the head or neck?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 481
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q29",
+        "label": "Does the child have trouble sleeping?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 573
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q30",
+        "label": "Is there a presence of a skin rash?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 665
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q31",
+        "label": "Is the patient currently under significant stress?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 757
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q32",
+        "label": "Is the patient on any medication?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 849
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q33",
+        "label": "Is the headache accompanied by nausea or vomiting?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 941
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q34",
+        "label": "Does patient have history of high blood pressure?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1033
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q35",
+        "label": "Was there recent exposure to anyone with bacterial or viral infection?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1125
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q36",
+        "label": "Does the patient experience visual disturbances or speech issues?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1217
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q37",
+        "label": "Has the patient experienced weakness or numbness on one side of the body?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1309
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q38",
+        "label": "Does the patient have a history of migraines?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1401
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q39",
+        "label": "Does the patient have any signs of neurological deficits?",
+        "collapsed": false,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1493
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q40",
+        "label": "Does the patient experience confusion or difficulty speaking?",
+        "collapsed": false,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1585
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q41",
+        "label": "Has there been rapid weight loss?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1677
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q42",
+        "label": "Does the patient have a history of sinusitis?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1769
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q43",
+        "label": "Does the patient have any known allergies?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1861
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q44",
+        "label": "Does the patient smoke or consume alcohol?",
+        "collapsed": true,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 1953
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q45",
+        "label": "Has there been recent unexplained weight loss?",
+        "collapsed": false,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 2045
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q46",
+        "label": "Does the patient have a history of ear infections?",
+        "collapsed": false,
+        "_children": []
+      },
+      "position": {
+        "x": 2098,
+        "y": 2137
+      },
+      "group": "nodes",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": false,
+      "classes": ""
+    }
+  ],
+  "edges": [
+    {
+      "data": {
+        "id": "Q1Q2",
+        "source": "Q1",
+        "target": "Q2",
+        "label": "Under 18"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q1Q3",
+        "source": "Q1",
+        "target": "Q3",
+        "label": "18-50"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q1Q4",
+        "source": "Q1",
+        "target": "Q4",
+        "label": "Over 50"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q2Q5",
+        "source": "Q2",
+        "target": "Q5",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q2Q6",
+        "source": "Q2",
+        "target": "Q6",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q3Q7",
+        "source": "Q3",
+        "target": "Q7",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q3Q8",
+        "source": "Q3",
+        "target": "Q8",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q4Q9",
+        "source": "Q4",
+        "target": "Q9",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q4Q10",
+        "source": "Q4",
+        "target": "Q10",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q5Q11",
+        "source": "Q5",
+        "target": "Q11",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q5Q12",
+        "source": "Q5",
+        "target": "Q12",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q6Q13",
+        "source": "Q6",
+        "target": "Q13",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q6Q14",
+        "source": "Q6",
+        "target": "Q14",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q7Q15",
+        "source": "Q7",
+        "target": "Q15",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q7Q16",
+        "source": "Q7",
+        "target": "Q16",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q8Q17",
+        "source": "Q8",
+        "target": "Q17",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q8Q18",
+        "source": "Q8",
+        "target": "Q18",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q9Q19",
+        "source": "Q9",
+        "target": "Q19",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q9Q20",
+        "source": "Q9",
+        "target": "Q20",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q10Q21",
+        "source": "Q10",
+        "target": "Q21",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q10Q22",
+        "source": "Q10",
+        "target": "Q22",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q11Q23",
+        "source": "Q11",
+        "target": "Q23",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q11Q24",
+        "source": "Q11",
+        "target": "Q24",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q12Q25",
+        "source": "Q12",
+        "target": "Q25",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q12Q26",
+        "source": "Q12",
+        "target": "Q26",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q13Q27",
+        "source": "Q13",
+        "target": "Q27",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q13Q28",
+        "source": "Q13",
+        "target": "Q28",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q14Q29",
+        "source": "Q14",
+        "target": "Q29",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q14Q30",
+        "source": "Q14",
+        "target": "Q30",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q15Q31",
+        "source": "Q15",
+        "target": "Q31",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q15Q32",
+        "source": "Q15",
+        "target": "Q32",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q16Q33",
+        "source": "Q16",
+        "target": "Q33",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q16Q34",
+        "source": "Q16",
+        "target": "Q34",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q17Q35",
+        "source": "Q17",
+        "target": "Q35",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q17Q36",
+        "source": "Q17",
+        "target": "Q36",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q18Q37",
+        "source": "Q18",
+        "target": "Q37",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q18Q38",
+        "source": "Q18",
+        "target": "Q38",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q19Q39",
+        "source": "Q19",
+        "target": "Q39",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q19Q40",
+        "source": "Q19",
+        "target": "Q40",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q20Q41",
+        "source": "Q20",
+        "target": "Q41",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q20Q42",
+        "source": "Q20",
+        "target": "Q42",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q21Q43",
+        "source": "Q21",
+        "target": "Q43",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q21Q44",
+        "source": "Q21",
+        "target": "Q44",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q22Q45",
+        "source": "Q22",
+        "target": "Q45",
+        "label": "Yes"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    },
+    {
+      "data": {
+        "id": "Q22Q46",
+        "source": "Q22",
+        "target": "Q46",
+        "label": "No"
+      },
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "group": "edges",
+      "removed": false,
+      "selected": false,
+      "selectable": true,
+      "locked": false,
+      "grabbable": true,
+      "pannable": true,
+      "classes": ""
+    }
+  ]
+}
