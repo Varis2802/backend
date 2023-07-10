@@ -5,8 +5,8 @@ import * as fs from 'fs';
 @Controller('connect-react')
 export class ConnectReactController {
   @Post('update-json')
-  updateJson(@Body('data') data: string, @Res() res: Response) {
-    fs.writeFile('updatedData.json', data, (err) => {
+  updateJson(@Body() body: {data: string, complaint: string}, @Res() res: Response) {
+    fs.writeFile(`${body.complaint}.json`, body.data, (err) => {
       if (err) {
         res.status(HttpStatus.INTERNAL_SERVER_ERROR).send('Error writing to file');
         throw err;
@@ -15,3 +15,4 @@ export class ConnectReactController {
     });
   }
 }
+
